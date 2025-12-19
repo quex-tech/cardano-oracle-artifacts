@@ -16,6 +16,8 @@ The resulting EFI file can be downloaded here: https://drive.google.com/file/d/1
 
 Firmware image for the verification can be downloaded here: https://drive.google.com/file/d/1J0ptXOhluEB3Vo-sDA_dn6VYLP4jdGo2/view?usp=drive_link
 
+Hardware configuration is 16 CPU cores and 2048 MiB RAM.
+
 The resulting measurements:
 
 ```
